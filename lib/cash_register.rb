@@ -6,6 +6,6 @@ class CashRegister
   end 
   
   def discount
-    self.total *= .20
+    self.total *= 0.20
   end   
 end   
